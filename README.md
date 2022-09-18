@@ -2,7 +2,7 @@
 
 > Trilha explorer
 
-![preview](./github/preview.png)
+![preview](./.github/preview.png)
 
 Projeto construído com base no desafio proposto no evento Next Level Week
 
